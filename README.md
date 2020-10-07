@@ -1,6 +1,6 @@
 # todoey_flutter
 
-A new Flutter application.
+A note taking application built on Flutter to learn state management.
 
 ## Getting Started
 
